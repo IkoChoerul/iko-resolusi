@@ -1,5 +1,6 @@
 IKO RESOLUSI 2023
 - Fokus belajar pemrograman python minimal 1 jam per-hari dengan konsisten
+- Menyelesaikan semua project dengan baik
 - bangun pagi jam 5
 - baca buku setiap hari tanpa kecuali
 - olahraga 2 hari sekali tanpa alasan apapun
